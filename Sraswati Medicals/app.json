@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "FUEL_SAVING_APP",
+    "slug": "FUEL_SAVING_APP",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/bdddw.png",
+    "splash": {
+      "image": "./assets/bdddw.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
